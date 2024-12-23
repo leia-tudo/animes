@@ -1,0 +1,12 @@
+.imagemBT{
+    width: 150px;
+    border-radius: 9px;
+}
+.imagemBT:hover{
+    opacity: 0.7;
+}
+.linkpai{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
