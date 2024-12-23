@@ -1,0 +1,15 @@
+.imagemBT{
+    border-radius: 20%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.btn{
+    color: white;
+    background-color: orange;
+}
+.btn:hover{
+    color: orange;
+    background-color: white;
+}

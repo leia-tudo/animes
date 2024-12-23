@@ -1,0 +1,18 @@
+
+.imgBT{
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgBT:hover{
+    opacity: 0.7;
+
+}
+.linkBT{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#pC{
+    text-align: center;
+}

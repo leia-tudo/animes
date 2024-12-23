@@ -1,0 +1,19 @@
+@import '../global/normilize.css';
+@import '../global/fonts.css';
+@import '../global/variable.css';
+@import '../global/elements.css';
+
+body{
+    background-color: black;
+}
+a{
+    color: white;
+    background: none;
+    text-decoration: none;
+}
+a:hover{
+    color: brown;
+}
+p{
+    color: white;
+}
