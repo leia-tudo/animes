@@ -16,6 +16,8 @@ video{
     margin-right: 20px;
     padding: 1%;
     border-radius: 20px;
+    display: flex;
+    justify-content: center;
 }
 .next:hover{
     background-color: orange;
